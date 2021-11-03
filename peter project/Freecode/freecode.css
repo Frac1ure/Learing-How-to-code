@@ -1,0 +1,6 @@
+body, form, textarea {
+    background-color: #000000;
+  }
+  p, h1, h2, h3, li, body, textarea, a {
+    color: #00ff0d;
+  }
